@@ -1,0 +1,10 @@
+ p{
+    background-color: silver;
+    padding: 2vw;
+    position: absolute;
+    bottom: -16px;
+    width: 100%;
+    border: 1px solid silver;
+    border-radius: 10px;
+    box-shadow: 10px 7px 25px 11px black;
+} 

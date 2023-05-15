@@ -1,0 +1,30 @@
+ .abs{
+    background-color: salmon;
+    padding: 3vw;
+    margin: 0;
+    border: 1px solid salmon;
+    border-radius: 10px;
+    box-shadow: 10px -12px 17px 11px black;
+  }
+  .nav-container{
+    position: absolute;
+    right: 2px;
+    margin-right: 80px;
+  }
+  .row-header1{
+    margin: 8px;
+  }
+  .row-header2{
+    margin: 8px;
+  }
+  .row-header3{
+    margin: 6px;
+  }
+  a, u {
+    text-decoration: none;
+    color:blue;
+    font-size: 15px;
+    font-weight: 5;
+    } 
+  
+  
